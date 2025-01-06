@@ -22,3 +22,4 @@ Github [PyPi release](.github/workflows/pypi-release.yml) workflow will push tag
    Creating the release also creates the tag chosen, which will trigger the PyPi release workflow.
 
 5. Once the PyPi release workflow completes, a new version will appear on [PyPI](https://pypi.org/project/PyGithub/#history) shortly.
+
